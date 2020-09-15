@@ -1,0 +1,7 @@
+streamlit==0.61.0
+pandas==0.25.3
+numpy==1.18.1
+scikit-learn==0.22.1
+mysql-connector-python==8.0.21
+plotly== 4.10.0
+bokeh ==2.2.1
