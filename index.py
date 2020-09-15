@@ -9,7 +9,7 @@ from mysql.connector import errorcode
 
 
 
-connection = mysql.connector.connect(host='localhost',
+connection = mysql.connector.connect(host='http://192.168.130.170:3306',
                             database='belajar',
                             user='root',
                             password='')
