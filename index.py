@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import mysql.connector
 from mysql.connector import Error
 from mysql.connector import errorcode
-import streamlit.components.v1 as components
+# import streamlit.components.v1 as components
 
 
 
